@@ -1,0 +1,1 @@
+/home/penguin/Documents/ASF_MODULES/xdk-asf-3.45.0/sam0/utils/linker_scripts/samd21/gcc/samd21j18a_flash.ld
