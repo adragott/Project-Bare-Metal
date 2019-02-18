@@ -77,10 +77,11 @@ void uart_puts(char *s)
 
 bool uart_has_data()
 {
- if ((SERCOM3->USART.INTFLAG.reg & SERCOM_USART_INTFLAG_RXC) >> SERCOM_USART_INTFLAG_RXC_Pos) {
-  return true;
- }
- return false;
+	if ((SERCOM3->USART.INTFLAG.reg & SERCOM_USART_INTFLAG_RXC) >> SERCOM_USART_INTFLAG_RXC_Pos)
+	{
+		return true;
+	}
+	return false;
 }
 
 static char uart_getc()
@@ -103,8 +104,8 @@ int main()
 
 	sys_init();
 	uart_init();
-
-	uart_puts("\r\n\r\n Hello, World! \r\n");
+	delay(1000);
+	uart_puts("\n\n Hello, World! \n\n");
 	uart_puts("\r\nType in Something and press Enter.\r\n");
     REG_PORT_DIR1 |= (1<<30);
 	REG_PORT_OUT1 &= ~(1<<30);
