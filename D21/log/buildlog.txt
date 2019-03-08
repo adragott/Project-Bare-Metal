@@ -1,0 +1,483 @@
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+../build/gdbcfg.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x918 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x918
+Loading section .relocate, size 0x438 lma 0x920
+Start address 0x0, load size 3416
+Transfer rate: 2 KB/sec, 1138 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x914 lma 0x0
+Loading section .ARM.exidx, size 0x8 lma 0x914
+Loading section .relocate, size 0x438 lma 0x91c
+Start address 0x0, load size 3412
+Transfer rate: 2 KB/sec, 1137 bytes/write.

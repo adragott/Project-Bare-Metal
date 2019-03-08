@@ -44,5 +44,7 @@ clean:
 debug: $(ELF)
 	arm-none-eabi-gdb -iex "target extended-remote localhost:3333" $(ELF)
 
+upload: $(ELF)
+	../scripts//upload.sh $(ELF)
 # pull in dependencies
 -include $(OBJS:.o=.d)

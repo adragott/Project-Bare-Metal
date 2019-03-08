@@ -105,7 +105,7 @@ int main()
 	sys_init();
 	uart_init();
 	delay(1000);
-	uart_puts("\n\n Hello, World! \n\n");
+	uart_puts("Hello, World!\n\n");
 	uart_puts("\r\nType in Something and press Enter.\r\n");
     REG_PORT_DIR1 |= (1<<30);
 	REG_PORT_OUT1 &= ~(1<<30);
