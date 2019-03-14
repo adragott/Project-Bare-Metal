@@ -3,7 +3,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include "debug.h"
-
 char buffer[512] = {'\0'};
 int main()
 {
@@ -13,7 +12,7 @@ int main()
 		printf("Error %d", port);
 		return -1;
 	}
-
+	sleep(1);
 	while(1)
 	{
 

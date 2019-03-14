@@ -23,7 +23,7 @@ void uart_init() {
 	// fref – SERCOM generic clock frequency
 	// S – Number of samples per bit
 	// BAUD – BAUD register value
-	uint64_t br = (uint64_t)65536 * (F_CPU - 16 * baud) / F_CPU;	// Variable for baud rate
+	uint64_t br = (uint64_t)65536 * (F_CPU - 16 * baud) / (float)F_CPU;	// Variable for baud rate
 
 	PORT->Group[0].DIRSET.reg = (1 << 22);							// Set TX Pin direction to output
 	PORT->Group[0].PINCFG[22].reg |= PORT_PINCFG_INEN;				// Set TX Pin config for input enable (required for usart)
@@ -67,9 +67,10 @@ void uart_putc(char c)
 }
 void uart_puts(char *s)
 {
-	while (*s)
+	const char* temp = s;
+	while (*temp)
 	{
-		uart_putc(*s++);
+		uart_putc(*temp++);
 	}
 	uart_putc('\n');
 
@@ -97,6 +98,7 @@ void sys_init(void)
 	// Enable interrupts
 	asm volatile ("cpsie i");
 }
+
 int main()
 {
 	// Initialize the SAM system
@@ -104,8 +106,8 @@ int main()
 
 	sys_init();
 	uart_init();
-	delay(1000);
-	uart_puts("Hello, World!\n\n");
+	delay(2000);
+	uart_puts("ZZZZZZ\n\n");
 	uart_puts("\r\nType in Something and press Enter.\r\n");
     REG_PORT_DIR1 |= (1<<30);
 	REG_PORT_OUT1 &= ~(1<<30);
