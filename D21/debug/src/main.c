@@ -3,6 +3,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include "debug.h"
+
 char buffer[512] = {'\0'};
 int main()
 {

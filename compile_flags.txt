@@ -1,0 +1,11 @@
+-mthumb
+-mcpu=cortex-m0
+-Wl,--gc-sections
+-g
+-ID21/inc
+-ID21/inc/cmsis
+-ID21/cfg
+-ID21/inc/include
+-ID21/inc/include/component
+-ID21/inc/include/instance
+-ID21/inc/include/pio

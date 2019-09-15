@@ -1,18 +1,27 @@
 #include "project.h"
 #include <samd21.h>
 #include <stdbool.h>
+#include <stdint.h>
+#define F_CPU 8000000	// 8MHz
+#define PERIOD_FAST     100
+#define PERIOD_SLOW     500
+
+
+void uart_putc(char c);
+void uart_puts(char *s);
+void delay(int n);
+
+
 void delay(int n)
 {
     int i;
 
     for (;n >0; n--)
     {
-        for (i=0;i<100;i++)
+        for (i=0;i<(F_CPU/10000);i++)
             __asm("nop");
     }
 }
-
-#define F_CPU 8000000	// 8MHz
 
 //-----------------------------------------------------------------------------
 void uart_init() {
@@ -80,6 +89,7 @@ bool uart_has_data()
 {
 	if ((SERCOM3->USART.INTFLAG.reg & SERCOM_USART_INTFLAG_RXC) >> SERCOM_USART_INTFLAG_RXC_Pos)
 	{
+
 		return true;
 	}
 	return false;
@@ -102,21 +112,40 @@ void sys_init(void)
 int main()
 {
 	// Initialize the SAM system
+	// SystemInit();
+	//
+	// sys_init();
+	// REG_PORT_DIR1 |= PORT_PB30;
+	// REG_PORT_OUT1 &= ~PORT_PB30;
+	//
+	// uart_init();
+	// //timer_init();
+	//
+	// //delay(2000);
+	// //uart_puts("ZZZZZZ\n\n");
+	// //uart_puts("\r\nType in Something and press Enter.\r\n");
+	// char x[1024];
+	//
+	// int ctr = 0;
+	// while(1)
+	// {
+	//
+	// 	if (uart_has_data())
+	// 	{
+	// 		REG_PORT_OUT1 ^= 1 << 30;
+	// 		char c = uart_getc();
+	// 		uart_putc(c);
+	// 	}
+	//
+	// }
 	SystemInit();
-
-	sys_init();
+	NVIC_EnableIRQ(TC3_IRQn);
 	uart_init();
-	delay(2000);
-	uart_puts("ZZZZZZ\n\n");
-	uart_puts("\r\nType in Something and press Enter.\r\n");
-    REG_PORT_DIR1 |= (1<<30);
-	REG_PORT_OUT1 &= ~(1<<30);
-    while(1)
-    {
-		if (uart_has_data())
-		{
-			char c = uart_getc();
-			uart_putc(c);
-		}
-    }
+
+	
+	for(;;)
+	{
+
+	}
+
 }

@@ -247,3 +247,585 @@ Loading section .text, size 0x21b8 lma 0x0
 Loading section .relocate, size 0x438 lma 0x21b8
 Start address 0x0, load size 9712
 Transfer rate: 4 KB/sec, 4856 bytes/write.
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f2203d740b8>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f039fae50f0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fc126946080>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f96dd0d50b8>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fdb9d3050b8>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f5418448080>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f0bd588fb70>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f0f840e6d30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f401e573cf8>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f1f49dc5240>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fee5a9ef278>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f650cec3278>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f8582570278>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:3333 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f4fbd1ed278>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:4444 arg1: Connection refused.
+Quit
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f40bfe2dd30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:4444 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fbc5c24dd30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:4444 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fdb7cb4fd30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:4444 arg1: Connection timed out.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fbdcfc60d30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+../build/flashmcu.gdb:7: Error in sourced command file:
+localhost:4444 arg1: Connection refused.
+Quit
+Quit
+Quit
+Quit
+Quit
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fe74a5c3d30>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7ffafe9f3278>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7fd76c2e2d68>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f676c21dd68>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f97e74012b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f5f60a952b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f9e793bf2b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f20d6d302b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f745d2082b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f4e41b6c2b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d84
+Start address 0x0, load size 8628
+Transfer rate: 4 KB/sec, 4314 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d84
+Start address 0x0, load size 8628
+Transfer rate: 4 KB/sec, 4314 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d84
+Start address 0x0, load size 8628
+Transfer rate: 4 KB/sec, 4314 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d84
+Start address 0x0, load size 8628
+Transfer rate: 4 KB/sec, 4314 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d94 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d94
+Start address 0x0, load size 8644
+Transfer rate: 4 KB/sec, 4322 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d94 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d94
+Start address 0x0, load size 8644
+Transfer rate: 4 KB/sec, 4322 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1da0 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1da0
+Start address 0x0, load size 8656
+Transfer rate: 4 KB/sec, 4328 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1da0 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1da0
+Start address 0x0, load size 8656
+Transfer rate: 4 KB/sec, 4328 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x5b8 lma 0x0
+Loading section .relocate, size 0x430 lma 0x5b8
+Start address 0x0, load size 2536
+Transfer rate: 2 KB/sec, 1268 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d4c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d4c
+Start address 0x0, load size 8572
+Transfer rate: 4 KB/sec, 4286 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d4c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d4c
+Start address 0x0, load size 8572
+Transfer rate: 4 KB/sec, 4286 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d54
+Start address 0x0, load size 8580
+Transfer rate: 4 KB/sec, 4290 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d54
+Start address 0x0, load size 8580
+Transfer rate: 4 KB/sec, 4290 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d54
+Start address 0x0, load size 8580
+Transfer rate: 4 KB/sec, 4290 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1d54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d54
+Start address 0x0, load size 8580
+Transfer rate: 4 KB/sec, 4290 bytes/write.
+No breakpoints or watchpoints.
+warning: No executable has been specified and target does not support
+determining executable automatically.  Try using the "file" command.
+0x000000fc in ?? ()
+../build/flashmcu.gdb:8: Error in sourced command file:
+No executable file specified.
+Use the "file" or "exec-file" command.
+[Inferior 1 (Remote target) detached]
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f99391002b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+warning: No executable has been specified and target does not support
+determining executable automatically.  Try using the "file" command.
+0x000000fc in ?? ()
+../build/flashmcu.gdb:8: Error in sourced command file:
+No executable file specified.
+Use the "file" or "exec-file" command.
+[Inferior 1 (Remote target) detached]
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f95143992b0>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1d54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1d54
+Start address 0x0, load size 8580
+Transfer rate: 4 KB/sec, 4290 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e40 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e40
+Start address 0x0, load size 8816
+Transfer rate: 4 KB/sec, 4408 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e48 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e48
+Start address 0x0, load size 8824
+Transfer rate: 4 KB/sec, 4412 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e3c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e3c
+Start address 0x0, load size 8812
+Transfer rate: 4 KB/sec, 4406 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e3c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e3c
+Start address 0x0, load size 8812
+Transfer rate: 4 KB/sec, 4406 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e48 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e48
+Start address 0x0, load size 8824
+Transfer rate: 4 KB/sec, 4412 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e54 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e54
+Start address 0x0, load size 8836
+Transfer rate: 4 KB/sec, 4418 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e50 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e50
+Start address 0x0, load size 8832
+Transfer rate: 4 KB/sec, 4416 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e64 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e64
+Start address 0x0, load size 8852
+Transfer rate: 4 KB/sec, 4426 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e78 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e78
+Start address 0x0, load size 8872
+Transfer rate: 4 KB/sec, 4436 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e78 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e78
+Start address 0x0, load size 8872
+Transfer rate: 4 KB/sec, 4436 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e78 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e78
+Start address 0x0, load size 8872
+Transfer rate: 4 KB/sec, 4436 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e8c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e8c
+Start address 0x0, load size 8892
+Transfer rate: 4 KB/sec, 4446 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e88 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e88
+Start address 0x0, load size 8888
+Transfer rate: 4 KB/sec, 4444 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e80 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e80
+Start address 0x0, load size 8880
+Transfer rate: 4 KB/sec, 4440 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e94 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e94
+Start address 0x0, load size 8900
+Transfer rate: 4 KB/sec, 4450 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1ea4 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1ea4
+Start address 0x0, load size 8916
+Transfer rate: 4 KB/sec, 4458 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1ea4 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1ea4
+Start address 0x0, load size 8916
+Transfer rate: 4 KB/sec, 4458 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e9c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e9c
+Start address 0x0, load size 8908
+Transfer rate: 4 KB/sec, 4454 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1ea0 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1ea0
+Start address 0x0, load size 8912
+Transfer rate: 4 KB/sec, 4456 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e9c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e9c
+Start address 0x0, load size 8908
+Transfer rate: 4 KB/sec, 4454 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e9c lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e9c
+Start address 0x0, load size 8908
+Transfer rate: 4 KB/sec, 4454 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1e84 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e84
+Start address 0x0, load size 8884
+Transfer rate: 4 KB/sec, 4442 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1dec lma 0x0
+Loading section .relocate, size 0x430 lma 0x1dec
+Start address 0x0, load size 8732
+Transfer rate: 4 KB/sec, 4366 bytes/write.
+No breakpoints or watchpoints.
+Reset_Handler () at ../src/startup_samd21.c:226
+226	{
+Loading section .text, size 0x1df8 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1df8
+Start address 0x0, load size 8744
+Transfer rate: 4 KB/sec, 4372 bytes/write.
+No breakpoints or watchpoints.
+0x00000000 in exception_table ()
+Loading section .text, size 0x1e08 lma 0x0
+Loading section .relocate, size 0x430 lma 0x1e08
+Start address 0x0, load size 8760
+Transfer rate: 4 KB/sec, 4380 bytes/write.

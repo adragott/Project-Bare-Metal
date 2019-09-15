@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -x
 if [ -n "$1" ];then
 	echo "Uploading $1..."
 else
@@ -7,7 +7,7 @@ else
 	exit -1
 fi
 ELF=$1
-SWPATH=/storage/Shared/Downloads/Projects/project_bare_metal/D21
+SWPATH=/storage/Shared/Documents/Projects/project_bare_metal/D21
 DEBUGPATH=$SWPATH/debug/bin
 MAKEPATH=$SWPATH/bin
 RED="\033[0;31m"

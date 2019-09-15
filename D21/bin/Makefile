@@ -1,5 +1,5 @@
 PROJNAME = bm_d21
-LDSCRIPT = samd21j18a_flash.ld
+LDSCRIPT = ../build/samd21j18a_flash.ld
 #xdk-asf/
 BOOTUP = startup_samd21.o system_samd21.o
 MCUTYPE=__SAMD21J18A__
@@ -20,6 +20,7 @@ AR=arm-none-eabi-ar
 AS=arm-none-eabi-as
 
 ELF=$(PROJNAME).elf
+BIN=$(PROJNAME).bin
 
 LDFLAGS+= -T$(LDSCRIPT) -mthumb -mcpu=cortex-m0 -Wl,--gc-sections
 CFLAGS+= -mcpu=cortex-m0 -mthumb -g
@@ -29,7 +30,9 @@ CFLAGS+= -D$(MCUTYPE)
 
 $(ELF): $(OBJS)
 	$(LD) $(LDFLAGS) -o $@ $(OBJS) $(LDLIBS)
-
+	arm-none-eabi-objcopy -O binary $(ELF) $(BIN)
+$(BIN): $(OBJS)
+	$(CC) $(LDFLAGS) -o $@ $(OBJS) $(LDLIBS)
 # compile and generate dependency info
 %.o: ../src/%.c
 	$(CC) -c $(CFLAGS) $< -o $@
